@@ -9,5 +9,4 @@ Objetivos:
 - Documentar minha evolução como programador.
 
 Em desenvolvimento – este repositório vai crescer junto com meus estudos.
----
 Qualquer feedback ou sugestão será muito bem-vinda!
