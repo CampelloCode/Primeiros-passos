@@ -1,4 +1,4 @@
-# Média-do-aluno
+# Média do aluno
 
 ### Função SE, REPITA e atribuições
 
